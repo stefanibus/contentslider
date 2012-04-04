@@ -1,0 +1,30 @@
+.contentslider {
+  position: relative;
+}
+.contentslider .content {
+  width: inherit;
+  height: 140px;
+  overflow: hidden;
+  position: relative;
+}
+.contentslider .area {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 100%;
+  height: inherit;
+}
+.contentslider .area.active {
+  left: 0;
+}
+.sliding .control a {
+  opacity: .6;
+  cursor: default;
+}
+.control li.disabled a {
+  opacity: .25;
+  cursor: default;
+}
+.control.paging li.active a {
+  font-weight: bold;
+}
