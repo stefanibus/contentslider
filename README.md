@@ -12,6 +12,7 @@ Summary
 jQuery-based slideshow that can be used for every kind of elements and multiple times on one page.
 
 Settings:
+
 * slidetime
 * delay
 * cycle
