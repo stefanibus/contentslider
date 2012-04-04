@@ -1,4 +1,4 @@
-README of content-slider
+README of contentslider
 =================
 
 * Author: Michael Großklaus, www.mgrossklaus.de
