@@ -3,7 +3,7 @@ README of content-slider
 
 * Author: Michael Großklaus, mail@mgrossklaus.de
 
-This is free and open source software. If you like and use it, flattr it ([flattr?][WhatisFlattr]). Thx.
+This is free and open source software.
 
 
 Summary
