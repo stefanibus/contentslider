@@ -18,3 +18,7 @@ Settings:
 * cycle
 * autoplay
 * setUrl
+
+
+
+sth news
